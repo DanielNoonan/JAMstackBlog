@@ -1,0 +1,2 @@
+# JAMstackBlog
+JAMstack blog project
